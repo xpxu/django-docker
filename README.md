@@ -3,7 +3,7 @@ django-docker-ubunutu
 This project records details about how to run a django server with ubuntu in docker.
 
 
-1. start up with network setup
+1. start up docker image with network setup
 -----------
 10.245.251.161 is the host ip. convert 80 of host ip to docker 8080
 
