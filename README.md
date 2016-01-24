@@ -26,4 +26,4 @@ This project records details about how to run a django server with ubuntu in doc
 remember to save the docker image every time, otherwise all the previous operations will beat the air.
 
     exit
-    docker commit  container_id image_name
+    docker commit  container进程id image_name
