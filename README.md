@@ -17,8 +17,11 @@ This project records details about how to run a django server with ubuntu in doc
     export http_proxy=http://www-proxy.us.oracle.com:80
     export https_proxy=http://www-proxy.us.oracle.com:80
 
+3. virtualenv active
+--------------------
+    source env/bin/activate
 
-3. exit
+4. exit
 -------
 remember to save the docker image every time, otherwise all the previous operations will beat the air.
 
